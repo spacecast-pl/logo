@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: belligerent
+font link: https://www.fontmonkey.com/archive1.php
+font author: P.D. Magnus
+font author site: https://www.fontmonkey.com/
+Slogan Font: belligerent
+
+icon designer: P Thanga Vignesh
+icon designer link: /amoghdesign
+        
+
+fontColor: {"gradient-0":"#505050","gradient-1":"#FF0125"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#505050","gradient-1":"#FF0125"}
+sloganColor: {"hex":"#505050"}
+      
